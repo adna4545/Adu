@@ -1,0 +1,41 @@
+body
+{background-color: lightpink;}
+.one{
+	display: flex;
+}
+.two{
+	flex: 50%;
+	background-color: lavender;
+}
+.three
+{flex: 50%;
+background-color: lavender;}
+.three a {
+	text-decoration: none;
+
+margin-right: 20px;
+color: royalblue;
+font-size: 40px ;
+}
+
+.three a:hover
+{color: white;
+	background-color: purple;}
+
+.bir
+{ display:flex; }
+.iki
+{ flex:50%; }
+.uc 
+{flex: 50%}
+.uc img
+{height: 300px;
+width: 650px;}
+
+
+
+
+
+<a href="./home.html"> home</a>
+		<a href="services.html"> service</a>
+		<a href="contact us.html"> contact</a>
